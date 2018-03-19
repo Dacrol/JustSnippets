@@ -1,1 +1,3 @@
-JustSnippets
+# JustScripts
+
+Contains useful code snippets.
